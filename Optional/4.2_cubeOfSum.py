@@ -1,6 +1,6 @@
 max_num = int(input())
 
-for i in range(max_num):
+for i in range(max_num + 1):
     string_sum = 0
 
     for char in str(i):
