@@ -1,9 +1,9 @@
 first = int(input())
 second = int(input())
 
-multi = 0
+multiplier = 0
 
-for i in range(first):
-    multi += second
+for i in range(second):
+    multiplier += first
 
-print(multi)
+print(multiplier)
